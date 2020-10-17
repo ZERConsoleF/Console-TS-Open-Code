@@ -1,0 +1,197 @@
+#Console Printf about side
+#       Code Memory this...
+#       WriteTime about (s)32
+#
+#Endl
+[21:56:20] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[21:56:23] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[21:56:23] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[21:56:23] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[21:56:23] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[21:56:23] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[21:56:24] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[21:56:26] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[21:56:26] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[21:56:26] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[21:56:26] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[21:56:27] [ServerNewConsole/Info] [Client Run/Thread] load[
+[21:56:28] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return ConsoleG.Core.net.LoadInfoClass at load
+[21:56:28] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return ConsoleG.Core.net.LoadInfoClass at load
+[21:56:28] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return ConsoleG.Core.net.LoadInfoClass at load
+[21:56:28] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[21:56:28] [ServerNewConsole/Info] [Client Run/Thread] load[
+[21:56:28] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return ConsoleG.Core.net.LoadInfoClass at load
+[21:56:29] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:56:29] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[21:56:29] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[21:56:29] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[21:56:29] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:56:29] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:56:29] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:56:29] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:56:30] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:56:30] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:56:30] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+[21:58:5] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[21:58:5] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[21:58:5] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[21:58:5] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[21:58:5] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[21:58:5] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[21:58:6] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[21:58:8] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[21:58:8] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[21:58:8] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[21:58:8] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[21:58:9] [ServerNewConsole/Info] [Client Run/Thread] load[
+[21:58:9] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return ConsoleG.Core.net.LoadInfoClass at load
+[21:58:9] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return ConsoleG.Core.net.LoadInfoClass at load
+[21:58:9] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return ConsoleG.Core.net.LoadInfoClass at load
+[21:58:9] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[21:58:9] [ServerNewConsole/Info] [Client Run/Thread] load[
+[21:58:9] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return ConsoleG.Core.net.LoadInfoClass at load
+[21:58:9] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:58:9] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[21:58:9] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[21:58:10] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[21:58:10] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:58:10] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:58:10] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:58:10] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:58:10] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:58:10] [ServerNewConsole/Error] [Client Run/Thread] 
+======Exception======
+#       This plug-in unit is fail to run
+#       What happen?# 索引超出了数组界限。
+#
+#
+#       This Lg ac System Convent
+[21:58:10] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+[21:59:38] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[21:59:39] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[21:59:39] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[21:59:39] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[21:59:39] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[21:59:39] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[21:59:40] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[21:59:42] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[21:59:42] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[21:59:42] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[21:59:42] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[21:59:43] [ServerNewConsole/Info] [Client Run/Thread] load[
+[21:59:43] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[21:59:43] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[21:59:43] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[21:59:43] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[21:59:43] [ServerNewConsole/Info] [Client Run/Thread] load[
+[21:59:43] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[21:59:43] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[21:59:43] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[21:59:43] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[21:59:44] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[21:59:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[21:59:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at getcmd
+[21:59:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[21:59:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at sever-loading
+[21:59:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at sever-loading
+[21:59:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at sever-loading
+[21:59:44] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+[22:0:8] [ServerNewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+[22:0:13] [ServerNewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+[22:0:22] [ServerNewConsole/Warn] [/Thread] 正在运行Close插件方法
+[22:0:22] [ServerNewConsole/Info] [/Thread] close[
+[22:0:22] [ServerNewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[22:0:22] [ServerNewConsole/Info] [/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at close
+[22:0:22] [ServerNewConsole/Info] [/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[22:0:22] [ServerNewConsole/Info] [/Thread] ] * close
+[22:0:22] [ServerNewConsole/Warn] [/Thread] Close Object
+

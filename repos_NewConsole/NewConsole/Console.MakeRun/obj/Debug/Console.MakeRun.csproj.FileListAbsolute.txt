@@ -1,0 +1,6 @@
+C:\Users\28759\source\repos_NewConsole\NewConsole\Console.MakeRun\obj\Debug\Console.MakeRun.csprojAssemblyReference.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\Console.MakeRun\obj\Debug\Console.MakeRun.csproj.CoreCompileInputs.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\Console.MakeRun\bin\Debug\SmProPub.MakeRun.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\Console.MakeRun\bin\Debug\SmProPub.MakeRun.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\Console.MakeRun\obj\Debug\SmProPub.MakeRun.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\Console.MakeRun\obj\Debug\SmProPub.MakeRun.pdb

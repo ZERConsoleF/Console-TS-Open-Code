@@ -1,0 +1,6 @@
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Net\bin\Debug\SmProPub.Net.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Net\bin\Debug\SmProPub.Net.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Net\obj\Debug\SmProPub.Net.csprojAssemblyReference.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Net\obj\Debug\SmProPub.Net.csproj.CoreCompileInputs.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Net\obj\Debug\SmProPub.Net.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Net\obj\Debug\SmProPub.Net.pdb

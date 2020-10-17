@@ -1,0 +1,12 @@
+-mv.lo=Window Load Memu
+
+-form.loadwindow.Creative.MainConsole=Console[Main Console System area]
+-form.loadwindow.Creative.ControlMain=Control[Code area]
+-form.loadwindow.Creative.ViewConsole=Server View[Code Sever]
+
+-mv.title.controlA=Window Name
+-mv.title.controlB=Control
+
+-mv.control.show=Control Class:{0}|Control Handle ID:{1}|Control GUID:{2};
+
+-list.this.text=Local List

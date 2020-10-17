@@ -1,0 +1,1265 @@
+#Console Printf about side
+#       Code Memory this...
+#       WriteTime about (s)32
+#
+#Endl
+[17:0:20] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:0:21] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:0:21] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:0:21] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:0:21] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:0:21] [NewConsole/Info] [Client Run/Thread] 成功
+[17:0:26] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:0:26] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:0:26] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:0:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:0:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:0:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:0:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:0:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:0:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:0:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:0:28] [NewConsole/Info] [Client Run/Thread] load[
+[17:0:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] load[
+[17:0:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:0:28] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:0:29] [NewConsole/Info] [Client Run/Thread] loading[
+[17:0:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:0:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:0:30] [NewConsole/Info] [Client Run/Thread] ] * loading
+[17:0:42] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+[17:0:53] [NewConsole/Info] [Main Window System/Thread] close[
+[17:0:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:0:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:0:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:0:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:0:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:0:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:0:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:0:53] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:9:4] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:9:5] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:9:5] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:9:5] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:9:5] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:9:5] [NewConsole/Info] [Client Run/Thread] 成功
+[17:9:11] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:9:11] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:9:11] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:9:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:9:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:9:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:9:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:9:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:9:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:9:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:9:12] [NewConsole/Info] [Client Run/Thread] load[
+[17:9:13] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] load[
+[17:9:13] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:9:13] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:9:14] [NewConsole/Info] [Client Run/Thread] loading[
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:9:14] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:9:15] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:9:15] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:9:15] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:9:25] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+[17:9:43] [NewConsole/Info] [Main Window System/Thread] close[
+[17:9:43] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:9:43] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:9:43] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:9:43] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:9:43] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:9:43] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:9:43] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:9:43] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:11:22] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:11:23] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:11:23] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:11:23] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:11:23] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:11:23] [NewConsole/Info] [Client Run/Thread] 成功
+[17:11:30] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:11:30] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:11:30] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:11:30] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:11:30] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:11:30] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:11:30] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:11:30] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:11:30] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:11:30] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:11:31] [NewConsole/Info] [Client Run/Thread] load[
+[17:11:32] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:11:32] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:11:32] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:11:32] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:11:32] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:11:32] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:11:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:11:33] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:11:33] [NewConsole/Info] [Client Run/Thread] load[
+[17:11:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:11:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:11:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:11:33] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:11:33] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:11:33] [NewConsole/Info] [Client Run/Thread] loading[
+[17:11:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+
+[17:11:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:11:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:11:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:11:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:11:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:11:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:11:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:11:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:11:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:11:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:11:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:11:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:11:35] [NewConsole/Info] [Client Run/Thread] ] * loading
+[17:11:45] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[17:14:26] [NewConsole/Info] [Main Window System/Thread] close[
+[17:14:26] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:14:26] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:14:26] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:14:26] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:14:26] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:14:26] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:14:26] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:14:26] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:15:41] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:15:42] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:15:42] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:15:42] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:15:42] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:15:42] [NewConsole/Info] [Client Run/Thread] 成功
+[17:15:49] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:15:49] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:15:49] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:15:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:15:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:15:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:15:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:15:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:15:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:15:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:15:51] [NewConsole/Info] [Client Run/Thread] load[
+[17:15:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] load[
+[17:15:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:15:52] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:15:53] [NewConsole/Info] [Client Run/Thread] loading[
+[17:15:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+
+[17:15:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:15:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:15:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:15:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:15:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:15:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:15:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:15:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:15:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:15:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:15:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:15:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:15:55] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+
+[17:16:34] [NewConsole/Info] [Main Window System/Thread] close[
+[17:16:34] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:16:34] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:16:34] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:16:34] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:16:34] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:16:34] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:20:1] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:20:2] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:20:2] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:20:2] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:20:2] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:20:2] [NewConsole/Info] [Client Run/Thread] 成功
+[17:20:7] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:20:7] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:20:7] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:20:9] [NewConsole/Info] [Client Run/Thread] load[
+[17:20:9] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] load[
+[17:20:9] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:20:9] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:20:10] [NewConsole/Info] [Client Run/Thread] loading[
+[17:20:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:20:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:20:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:20:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:20:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:20:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:20:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:20:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:20:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:20:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:20:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:20:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:20:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:20:11] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+[17:20:25] [NewConsole/Info] [Main Window System/Thread] close[
+[17:20:25] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:20:25] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:20:25] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:20:25] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:20:25] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:20:25] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:23:24] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:23:25] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:23:25] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:23:25] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:23:25] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:23:25] [NewConsole/Info] [Client Run/Thread] 成功
+[17:23:31] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:23:31] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:23:31] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:23:32] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:23:32] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:23:32] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:23:32] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:23:32] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:23:32] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:23:32] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:23:33] [NewConsole/Info] [Client Run/Thread] load[
+[17:23:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] load[
+[17:23:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:23:34] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:23:34] [NewConsole/Info] [Client Run/Thread] loading[
+[17:23:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:23:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:23:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:23:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:23:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:23:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:23:35] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+
+[17:23:36] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:23:36] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:23:36] [NewConsole/Info] [Client Run/Thread] ] * loading
+[17:23:39] [NewConsole/Info] [Main Window System/Thread] close[
+[17:23:39] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:23:39] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:23:39] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:23:39] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:23:39] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:23:39] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:23:39] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:23:39] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:24:1] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:24:1] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:24:1] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:24:1] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:24:1] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:24:1] [NewConsole/Info] [Client Run/Thread] 成功
+[17:24:5] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:24:5] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:24:5] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:24:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:24:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:24:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:24:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:24:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:24:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:24:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:24:6] [NewConsole/Info] [Client Run/Thread] load[
+[17:24:6] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] load[
+[17:24:6] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:24:6] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:24:7] [NewConsole/Info] [Client Run/Thread] loading[
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:24:7] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:24:7] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:24:20] [NewConsole/Info] [Main Window System/Thread] close[
+[17:24:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:24:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:24:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:24:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:24:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:24:20] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:24:58] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:24:58] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:24:58] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:24:58] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:24:58] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:24:58] [NewConsole/Info] [Client Run/Thread] 成功
+[17:25:2] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:25:2] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:25:2] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:25:2] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:25:2] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:25:2] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:25:2] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:25:2] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:25:2] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:25:2] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:25:3] [NewConsole/Info] [Client Run/Thread] load[
+[17:25:3] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] load[
+[17:25:4] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:25:4] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:25:4] [NewConsole/Info] [Client Run/Thread] loading[
+[17:25:4] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:25:5] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:25:5] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+
+
+[17:25:48] [NewConsole/Info] [Main Window System/Thread] close[
+[17:25:48] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:25:48] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:25:48] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:25:48] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:25:48] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:25:48] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:26:46] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:26:46] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:26:46] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:26:46] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:26:46] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:26:46] [NewConsole/Info] [Client Run/Thread] 成功
+[17:26:50] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:26:50] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:26:50] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:26:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:26:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:26:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:26:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:26:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:26:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:26:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:26:52] [NewConsole/Info] [Client Run/Thread] load[
+[17:26:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] load[
+[17:26:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:26:53] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:26:54] [NewConsole/Info] [Client Run/Thread] loading[
+[17:26:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:26:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:26:55] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+[17:27:14] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+
+
+[17:28:7] [NewConsole/Info] [Main Window System/Thread] close[
+[17:28:7] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:28:7] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:28:7] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:28:7] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:28:7] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:28:7] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:28:7] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:28:7] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:30:20] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:30:21] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:30:21] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:30:21] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:30:21] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:30:21] [NewConsole/Info] [Client Run/Thread] 成功
+[17:30:28] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:30:28] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:30:28] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:30:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:30:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:30:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:30:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:30:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:30:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:30:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:30:29] [NewConsole/Info] [Client Run/Thread] load[
+[17:30:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] load[
+[17:30:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:30:31] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:30:32] [NewConsole/Info] [Client Run/Thread] loading[
+[17:30:32] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+
+[17:30:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:30:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:30:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:30:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:30:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:30:33] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:30:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:30:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:30:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:30:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:30:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:30:34] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:30:34] [NewConsole/Info] [Client Run/Thread] ] * loading
+[17:30:43] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+[17:33:38] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:33:39] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:33:39] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:33:39] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:33:39] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:33:39] [NewConsole/Info] [Client Run/Thread] 成功
+[17:33:43] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:33:43] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:33:43] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:33:43] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:33:43] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:33:43] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:33:43] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:33:43] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:33:43] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:33:43] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:33:44] [NewConsole/Info] [Client Run/Thread] load[
+[17:33:44] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] load[
+[17:33:44] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:33:44] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:33:45] [NewConsole/Info] [Client Run/Thread] loading[
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:33:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:33:45] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:33:55] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+[17:35:6] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:35:6] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:35:6] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:35:6] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:35:6] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:35:6] [NewConsole/Info] [Client Run/Thread] 成功
+[17:35:10] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:35:10] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:35:10] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:35:10] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:35:10] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:35:10] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:35:10] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:35:10] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:35:10] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:35:10] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:35:11] [NewConsole/Info] [Client Run/Thread] load[
+[17:35:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] load[
+[17:35:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:35:11] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:35:12] [NewConsole/Info] [Client Run/Thread] loading[
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:35:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:35:12] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:35:22] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+[17:36:46] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:36:47] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:36:47] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:36:47] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:36:47] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:36:47] [NewConsole/Info] [Client Run/Thread] 成功
+[17:36:50] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:36:50] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:36:50] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:36:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:36:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:36:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:36:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:36:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:36:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:36:50] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:36:51] [NewConsole/Info] [Client Run/Thread] load[
+[17:36:51] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:36:51] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:36:51] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:36:52] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:36:52] [NewConsole/Info] [Client Run/Thread] load[
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:36:52] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:36:52] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:36:52] [NewConsole/Info] [Client Run/Thread] loading[
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:36:52] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:36:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:36:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:36:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:36:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:36:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:36:53] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:37:1] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+[17:39:32] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:39:32] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:39:32] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:39:32] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:39:32] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:39:32] [NewConsole/Info] [Client Run/Thread] 成功
+[17:39:36] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:39:36] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:39:36] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:39:36] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:39:36] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:39:36] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:39:36] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:39:36] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:39:36] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:39:36] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:39:37] [NewConsole/Info] [Client Run/Thread] load[
+[17:39:37] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] load[
+[17:39:37] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:39:37] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:39:38] [NewConsole/Info] [Client Run/Thread] loading[
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:39:38] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:39:38] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:39:47] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+[17:40:40] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:40:41] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:40:41] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:40:41] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:40:41] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:40:41] [NewConsole/Info] [Client Run/Thread] 成功
+[17:40:46] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:40:46] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:40:46] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:40:47] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:40:47] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:40:47] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:40:47] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:40:47] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:40:47] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:40:47] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:40:48] [NewConsole/Info] [Client Run/Thread] load[
+[17:40:48] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] load[
+[17:40:48] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:40:48] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:40:49] [NewConsole/Info] [Client Run/Thread] loading[
+[17:40:49] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:40:49] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:40:49] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:40:49] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:40:49] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:40:49] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:40:49] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:40:50] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:40:50] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:40:50] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:40:50] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:40:50] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:40:50] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:40:50] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:41:0] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+
+[17:41:30] [NewConsole/Info] [Main Window System/Thread] close[
+[17:41:30] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:41:30] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:41:30] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:41:30] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:41:30] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:41:30] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:41:30] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:41:30] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:44:23] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:44:24] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:44:24] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:44:24] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:44:24] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:44:24] [NewConsole/Info] [Client Run/Thread] 成功
+[17:44:27] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:44:27] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:44:27] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:44:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:44:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:44:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:44:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:44:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:44:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:44:27] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:44:28] [NewConsole/Info] [Client Run/Thread] load[
+[17:44:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:44:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:44:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:44:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:44:28] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:44:29] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:44:29] [NewConsole/Info] [Client Run/Thread] load[
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:44:29] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:44:29] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:44:29] [NewConsole/Info] [Client Run/Thread] loading[
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:44:29] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:44:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:44:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:44:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:44:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:44:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:44:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:44:30] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:44:42] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+
+
+[17:45:27] [NewConsole/Info] [Main Window System/Thread] close[
+[17:45:27] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:45:27] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:45:27] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:45:27] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:45:27] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:45:27] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:45:27] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:45:27] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:46:39] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:46:40] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:46:40] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:46:40] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:46:40] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:46:40] [NewConsole/Info] [Client Run/Thread] 成功
+[17:46:44] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:46:44] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:46:44] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:46:44] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:46:44] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:46:44] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:46:44] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:46:44] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:46:44] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:46:44] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:46:45] [NewConsole/Info] [Client Run/Thread] load[
+[17:46:45] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] load[
+[17:46:46] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:46:46] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:46:46] [NewConsole/Info] [Client Run/Thread] loading[
+[17:46:46] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:46:47] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:46:47] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:46:58] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+[17:47:20] [NewConsole/Info] [Main Window System/Thread] close[
+[17:47:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:47:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:47:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:47:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:47:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:47:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:47:20] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:47:20] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:48:42] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:48:43] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:48:43] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:48:43] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:48:43] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:48:43] [NewConsole/Info] [Client Run/Thread] 成功
+[17:48:51] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:48:51] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:48:51] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:48:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:48:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:48:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:48:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:48:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:48:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:48:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:48:53] [NewConsole/Info] [Client Run/Thread] load[
+[17:48:53] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] load[
+[17:48:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:48:54] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+
+[17:48:54] [NewConsole/Info] [Client Run/Thread] loading[
+[17:48:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:48:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:48:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:48:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:48:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:48:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:48:55] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:48:56] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:48:56] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:48:56] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:48:56] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:48:56] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:48:56] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:48:56] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:49:8] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+
+
+
+
+[17:50:24] [NewConsole/Info] [Main Window System/Thread] close[
+[17:50:24] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:50:24] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:50:24] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:50:24] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:50:24] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:50:24] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:50:24] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:50:24] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:51:33] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:51:34] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:51:34] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:51:34] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:51:34] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:51:34] [NewConsole/Info] [Client Run/Thread] 成功
+[17:51:38] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:51:38] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:51:38] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:51:38] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:51:38] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:51:38] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:51:38] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:51:38] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:51:38] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:51:38] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:51:40] [NewConsole/Info] [Client Run/Thread] load[
+[17:51:40] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] load[
+[17:51:40] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:51:40] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:51:41] [NewConsole/Info] [Client Run/Thread] loading[
+[17:51:41] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:51:41] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:51:41] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:51:41] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:51:41] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:51:41] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:51:41] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:51:42] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:51:42] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:51:42] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:51:42] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:51:42] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:51:42] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:51:42] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[17:51:52] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+
+
+
+[17:52:53] [NewConsole/Info] [Main Window System/Thread] close[
+[17:52:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:52:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:52:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:52:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:52:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:52:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:52:53] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:52:53] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[17:54:4] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:54:5] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:54:5] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:54:5] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:54:5] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:54:5] [NewConsole/Info] [Client Run/Thread] 成功
+[17:54:8] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:54:8] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:54:8] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:54:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:54:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:54:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:54:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:54:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:54:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:54:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:54:10] [NewConsole/Info] [Client Run/Thread] load[
+[17:54:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] load[
+[17:54:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:54:10] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:54:11] [NewConsole/Info] [Client Run/Thread] loading[
+[17:54:11] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:54:12] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:54:12] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+[17:54:28] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+[17:55:22] [NewConsole/Info] [Client Run/Thread] 加载启动
+[17:55:23] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[17:55:23] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[17:55:23] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[17:55:23] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[17:55:23] [NewConsole/Info] [Client Run/Thread] 成功
+[17:55:28] [NewConsole/Warn] [Client Run/Thread] 创建From大小为 x:800 y:600
+[17:55:28] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[17:55:28] [NewConsole/Warn] [Client Run/Thread] 是否放大在加载窗体True
+[17:55:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[17:55:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[17:55:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[17:55:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:55:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[17:55:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[17:55:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[17:55:29] [NewConsole/Info] [Client Run/Thread] load[
+[17:55:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] load[
+[17:55:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] ] * load
+[17:55:30] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[17:55:31] [NewConsole/Info] [Client Run/Thread] loading[
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at loading
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at getcmd
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at getcmd
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at getcmd
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at getcmd
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at getcmd
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at runload
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at loading
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at loading
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at loading
+[17:55:31] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at loading
+[17:55:32] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at loading
+[17:55:32] [NewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at loading
+[17:55:32] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[17:58:29] [NewConsole/Info] [/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at run
+
+
+
+
+
+[17:59:29] [NewConsole/Info] [Main Window System/Thread] close[
+[17:59:29] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/mo is sucess load to return 0 at close
+[17:59:29] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/sr is sucess load to return 0 at close
+[17:59:29] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at close
+[17:59:29] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/cw is sucess load to return 0 at close
+[17:59:29] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/client/HPC is sucess load to return 0 at close
+[17:59:29] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at close
+[17:59:29] [NewConsole/Info] [Main Window System/Thread] [System plug-in unit] The package SystemCmdExtr/Shell is sucess load to return 0 at close
+[17:59:29] [NewConsole/Info] [Main Window System/Thread] ] * close
+

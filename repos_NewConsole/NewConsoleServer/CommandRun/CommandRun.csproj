@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{41E89289-DE0C-4124-B0F1-FCFE6AAD5954}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CommandRun</RootNamespace>
+    <AssemblyName>Main</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\ServerNewConsole\bin\Debug\extr\runcmd\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PCI.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\ConsoleG.Core\ConsoleG.Core.csproj">
+      <Project>{57D272FB-A3A9-45CF-AAC4-4B35B1B3353F}</Project>
+      <Name>ConsoleG.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\NewConsole\RunLCJVM\RunLCJVM.csproj">
+      <Project>{1ca04409-1346-4616-8376-23beb3320d05}</Project>
+      <Name>RunLCJVM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\NewConsole\SmPro.System\SmPro.System.csproj">
+      <Project>{f739f304-daec-48df-89ca-57f3abd9e1d4}</Project>
+      <Name>SmPro.System</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SmPro.ServerSystem\SmPro.ServerSystem.csproj">
+      <Project>{ad68ac9c-f68d-4cbf-bc13-20b786f213a9}</Project>
+      <Name>SmPro.ServerSystem</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SmProPub\SmProPub.csproj">
+      <Project>{b12d7514-baa7-4b63-bc45-757f65777d0c}</Project>
+      <Name>SmProPub</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

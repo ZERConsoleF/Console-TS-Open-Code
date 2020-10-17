@@ -1,0 +1,11 @@
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\bin\Debug\SmProPub.IO.Drive.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\bin\Debug\SmProPub.IO.Drive.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\bin\Debug\Newtonsoft.Json.xml
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\obj\Debug\SmProPub.IO.Drive.csprojAssemblyReference.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\obj\Debug\SmProPub.IO.Drive.csproj.CoreCompileInputs.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\obj\Debug\SmProPub.IO.Drive.csproj.CopyComplete
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\obj\Debug\SmProPub.IO.Drive.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\obj\Debug\SmProPub.IO.Drive.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\bin\Debug\SmProPub.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.IO.Drive\bin\Debug\SmProPub.pdb

@@ -1,0 +1,16 @@
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\SmProPub.System.dll
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\SmProPub.System.pdb
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\ConsoleG.Core.dll
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\SmProPub.dll
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\ConsoleG.Core.pdb
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\SmProPub.pdb
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\obj\Debug\SmProPub.System.csprojAssemblyReference.cache
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\obj\Debug\SmProPub.System.csproj.CoreCompileInputs.cache
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\obj\Debug\SmProPub.System.csproj.CopyComplete
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\obj\Debug\SmProPub.System.dll
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\obj\Debug\SmProPub.System.pdb
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\SmProPub.IO.dll
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\SmProPub.IO.pdb
+C:\Users\28759\source\repos_NewConsole\SmProPub.System\bin\Debug\SmProPub.System.tlb

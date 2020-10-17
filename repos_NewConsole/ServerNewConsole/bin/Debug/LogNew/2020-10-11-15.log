@@ -1,0 +1,424 @@
+#Console Printf about side
+#       Code Memory this...
+#       WriteTime about (s)9
+#
+#Endl
+[15:3:57] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:3:57] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:3:57] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:3:57] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:3:57] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:3:57] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:3:58] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:4:0] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:4:0] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:4:0] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:4:0] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:4:1] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+
+
+
+
+[15:7:17] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:7:17] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:7:17] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:7:17] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:7:17] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:7:17] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:7:18] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:7:20] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:7:20] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:7:20] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:7:20] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:7:21] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:7:21] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:7:21] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:7:22] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:7:22] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:7:22] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:7:22] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:7:22] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:7:22] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:7:22] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:7:22] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:7:22] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+[15:10:9] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:10:10] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:10:10] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:10:10] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:10:10] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:10:10] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:10:11] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:10:13] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:10:13] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:10:13] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:10:13] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:10:14] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+[15:17:6] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:17:6] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:17:6] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:17:6] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:17:6] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:17:6] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:17:7] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:17:9] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:17:9] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:17:9] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:17:9] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:17:10] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:17:11] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+[15:19:40] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:19:40] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:19:40] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:19:40] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:19:40] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:19:40] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:19:42] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:19:44] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:19:44] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:19:44] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:19:44] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:19:45] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+[15:27:52] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:27:53] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:27:53] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:27:53] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:27:53] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:27:53] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:27:54] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:27:56] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:27:56] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:27:56] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:27:56] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:27:57] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+[15:30:43] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:30:43] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:30:43] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:30:43] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:30:43] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:30:43] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:30:44] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:30:46] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:30:46] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:30:46] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:30:46] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:30:47] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:30:47] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:30:47] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:30:47] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:30:47] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:30:47] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:30:47] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:30:47] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:30:47] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:30:47] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:30:48] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:30:48] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+[15:33:4] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:33:4] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:33:4] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:33:4] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:33:4] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:33:4] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:33:5] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:33:7] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:33:7] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:33:7] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:33:7] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:33:8] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:33:8] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:33:8] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:33:9] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:33:9] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:33:9] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:33:9] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:33:9] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:33:9] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:33:9] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:33:9] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:33:9] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+
+[15:35:6] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:35:7] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:35:7] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:35:7] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:35:7] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:35:7] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:35:8] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:35:10] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:35:10] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:35:10] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:35:10] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:35:11] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+
+[15:37:28] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:37:28] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:37:28] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:37:28] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:37:28] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:37:28] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:37:29] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:37:31] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:37:31] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:37:31] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:37:31] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:37:32] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:37:32] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:37:32] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:37:32] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:37:32] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:37:32] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:37:32] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:37:32] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:37:32] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:37:32] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:37:33] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:37:33] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+
+[15:40:45] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:40:45] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:40:45] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:40:45] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:40:45] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:40:45] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:40:46] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:40:48] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:40:48] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:40:48] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:40:48] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:40:49] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:40:49] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:40:49] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:40:49] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:40:49] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:40:49] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:40:49] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:40:49] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:40:49] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:40:49] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:40:50] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:40:50] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+
+
+
+[15:42:20] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:42:20] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:42:20] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:42:20] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:42:20] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:42:20] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:42:21] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:42:23] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:42:23] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:42:23] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:42:23] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:42:24] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:42:25] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+
+[15:43:18] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:43:18] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:43:18] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:43:18] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:43:18] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:43:18] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:43:19] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:43:21] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:43:21] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:43:21] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:43:21] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:43:22] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+
+[15:45:22] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:45:22] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:45:22] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:45:22] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:45:22] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:45:22] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:45:23] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:45:25] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:45:25] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:45:25] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:45:25] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:45:26] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:45:27] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+
+[15:57:41] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[15:57:42] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[15:57:42] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[15:57:42] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[15:57:42] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[15:57:42] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[15:57:43] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[15:57:45] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[15:57:45] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[15:57:45] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[15:57:45] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] load[
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[15:57:46] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+
+

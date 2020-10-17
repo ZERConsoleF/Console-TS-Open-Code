@@ -1,0 +1,9 @@
+C:\Users\28759\source\repos_NewConsole\NewConsole\NewConsole\bin\Debug\SystemCmdExtr\Helper\Main.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\NewConsole\bin\Debug\SystemCmdExtr\Helper\Main.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmCmd.SystemControl\obj\Debug\SmCmd.SystemControl.csprojAssemblyReference.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmCmd.SystemControl\obj\Debug\SmCmd.SystemControl.csproj.CoreCompileInputs.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmCmd.SystemControl\obj\Debug\SmCmd.SystemControl.csproj.CopyComplete
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmCmd.SystemControl\obj\Debug\Main.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmCmd.SystemControl\obj\Debug\Main.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\NewConsole\bin\Debug\SystemCmdExtr\LoadRun\Main.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\NewConsole\bin\Debug\SystemCmdExtr\LoadRun\Main.pdb

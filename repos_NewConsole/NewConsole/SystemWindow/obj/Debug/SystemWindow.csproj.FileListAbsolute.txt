@@ -1,0 +1,6 @@
+C:\Users\28759\source\repos_NewConsole\NewConsole\SystemWindow\bin\Debug\SystemWindow.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SystemWindow\bin\Debug\SystemWindow.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SystemWindow\obj\Debug\SystemWindow.csprojAssemblyReference.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SystemWindow\obj\Debug\SystemWindow.csproj.CoreCompileInputs.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SystemWindow\obj\Debug\SystemWindow.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SystemWindow\obj\Debug\SystemWindow.pdb

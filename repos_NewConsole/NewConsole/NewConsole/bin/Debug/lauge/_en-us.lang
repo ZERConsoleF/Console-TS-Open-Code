@@ -1,0 +1,41 @@
+-exit=Please pass any key to quit...
+
+-console.write.nowork=Sorry,this set file did't find
+-console.wrilt.monory=Warning,The Memory is before the set memory size
+
+-console.memory=success creat memory
+-console.makearg.usage=Load about make arg data...
+
+-console.start.str=Load Start
+-console.start.win=Win Load
+-console.makes.success=NBT make success,load to write memory...
+-console.loadwindow.use.lauge=Use this lauge while loading or loaded
+
+-form.loadwindow.text=Load cp into memory
+-form.loadwindow.creat.maintitle=Success Creat Memory title:
+-form.loadwindow.creat.mainwhli=Creat From About
+-form.loadwindow.mainmax=use max window 
+-form.loadwindow.mainloadit=Open The Window,and load program
+-form.loadwindow.loadprocess=Load The Process to System and Process is user
+
+-console.loadprogram.nomain=About The Program package,we did't find Main load into
+
+-etc.threadlc=Memory:{0},CPU:{1},Thread:{2}
+
+-hs.fq=Because has beep '\n' please use "Client more"
+
+-menu.m1=File
+-menu.m1.l1=Open The Connort
+-menu.m1.l2=New Object
+-menu.m1.l3=Option
+-menu.m1.l4=Save
+
+-menu.m2=View
+-menu.m2.l1=View The Main Window To this System Form(Window)
+-menu.m2.l2=More Window In Regedit Form
+-menu.m2.l3=Return
+-menu.m2.l4=Redo
+-menu.m2.l5=Copy
+-menu.m2.l6=Paste
+-menu.m2.l7=Shear
+-menu.m2.l8=Delete

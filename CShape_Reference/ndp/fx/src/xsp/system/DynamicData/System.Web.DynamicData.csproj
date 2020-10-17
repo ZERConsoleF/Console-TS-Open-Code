@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition="'$(Configuration)' == ''">Debug</Configuration>
+    <Platform Condition="'$(Platform)' == ''">AnyCPU</Platform>
+    <ProjectGuid>{08f5b97b-8630-4b30-a6b5-28ae1f0b5636}</ProjectGuid>
+    <OutputPath>.</OutputPath>
+    <OutputType>Library</OutputType>
+    <AssemblyName>System.Web.DynamicData</AssemblyName>
+    <UseVSHostingProcess>False</UseVSHostingProcess>
+    <NoStdLib>True</NoStdLib>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <DefineConstants>CODE_ANALYSIS_BASELINE;FEATURE_LEGACYSURFACEAREA;FEATURE_UTF32;FEATURE_UTF7;TRACE;RETAIL;WIN32</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' " >
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\clr\src\bcl\mscorlib.csproj">
+      <Project>{e0da26e9-d35f-445c-94fb-58f039f76c3f}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\System.csproj">
+      <Project>{db3703cc-a1d5-42b5-892b-85450ff822e0}</Project>
+      <Name>System</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAnnotations\System.ComponentModel.DataAnnotations.csproj">
+      <Project>{fc04fe14-074c-4994-b9c8-03fef5e1c380}</Project>
+      <Name>System.ComponentModel.DataAnnotations</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Configuration\System.Configuration.csproj">
+      <Project>{3425ea8c-2b8d-4107-b81f-70fef7c8a773}</Project>
+      <Name>System.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Core\System.Core.csproj">
+      <Project>{d8c59d7f-e786-42f3-be83-fb8798331c32}</Project>
+      <Name>System.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\data\System.Data.csproj">
+      <Project>{870ffe19-f01e-4b2e-96f1-817cf9d7604a}</Project>
+      <Name>System.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DataEntity\System.Data.Entity.csproj">
+      <Project>{059b88da-ce73-4af9-8680-fb7ab44d06e7}</Project>
+      <Name>System.Data.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DLinq\Dlinq\System.Data.Linq.csproj">
+      <Project>{da108998-b81a-477d-a12c-8c645e184c8d}</Project>
+      <Name>System.Data.Linq</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DataWeb\Client\System.Data.Services.Client.csproj">
+      <Project>{a4037700-ec0e-429d-979c-8892385e72d6}</Project>
+      <Name>System.Data.Services.Client</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DataWeb\Design\System.Data.Services.Design.csproj">
+      <Project>{25514e54-5cf1-4645-8872-54fb55a466ae}</Project>
+      <Name>System.Data.Services.Design</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\System.Drawing.csproj">
+      <Project>{04d8e9c4-93a4-4b67-b9a0-5d7b3a52497c}</Project>
+      <Name>System.Drawing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Web\System.Web.csproj">
+      <Project>{dc49391d-17b4-49be-95e5-c3c78d52c872}</Project>
+      <Name>System.Web</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\DataWebControls\System.Web.Entity.csproj">
+      <Project>{51b8f0ab-a844-41bb-b659-9d7afb68d3b7}</Project>
+      <Name>System.Web.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Extensions\System.Web.Extensions.csproj">
+      <Project>{44730772-10cf-4f67-8d62-eb0166300615}</Project>
+      <Name>System.Web.Extensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\cdf\src\NetFx20\System.Web.Services\System.Web.Services.csproj">
+      <Project>{8cd8d9f9-4df2-449d-8280-8f1b307ee840}</Project>
+      <Name>System.Web.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\System.Windows.Forms.csproj">
+      <Project>{e59c2e2c-bcd1-45cc-b7a2-1ba29ac18e2b}</Project>
+      <Name>System.Windows.Forms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\Xml\System.Xml.csproj">
+      <Project>{afd452b2-ab89-40e4-ae83-adb409dfd32a}</Project>
+      <Name>System.Xml</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\XLinq\System.Xml.Linq.csproj">
+      <Project>{1fc61d91-d43b-4a87-8a9f-0218f150d6c9}</Project>
+      <Name>System.Xml.Linq</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DynamicData\ContainerType.cs" />
+    <Compile Include="DynamicData\ContextConfiguration.cs" />
+    <Compile Include="DynamicData\ControlFilterExpression.cs" />
+    <Compile Include="DynamicData\DataBoundControlParameterTarget.cs" />
+    <Compile Include="DynamicData\DataControlReference.cs" />
+    <Compile Include="DynamicData\DataControlReferenceCollection.cs" />
+    <Compile Include="DynamicData\DataSourceUtil.cs" />
+    <Compile Include="DynamicData\DefaultAutoFieldGenerator.cs" />
+    <Compile Include="DynamicData\DynamicControl.cs" />
+    <Compile Include="DynamicData\DynamicControlParameter.cs" />
+    <Compile Include="DynamicData\DynamicDataExtensions.cs" />
+    <Compile Include="DynamicData\DynamicDataManager.cs" />
+    <Compile Include="DynamicData\DynamicDataRoute.cs" />
+    <Compile Include="DynamicData\DynamicDataRouteHandler.cs" />
+    <Compile Include="DynamicData\DynamicEntity.cs" />
+    <Compile Include="DynamicData\DynamicField.cs" />
+    <Compile Include="DynamicData\DynamicFilter.cs" />
+    <Compile Include="DynamicData\DynamicFilterExpression.cs" />
+    <Compile Include="DynamicData\DynamicHyperLink.cs" />
+    <Compile Include="DynamicData\DynamicQueryStringParameter.cs" />
+    <Compile Include="DynamicData\DynamicRouteExpression.cs" />
+    <Compile Include="DynamicData\DynamicValidator.cs" />
+    <Compile Include="DynamicData\EntityTemplate.cs" />
+    <Compile Include="DynamicData\EntityTemplateFactory.cs" />
+    <Compile Include="DynamicData\EntityTemplateUserControl.cs" />
+    <Compile Include="DynamicData\FieldTemplateFactory.cs" />
+    <Compile Include="DynamicData\FieldTemplateUserControl.cs" />
+    <Compile Include="DynamicData\FilterFactory.cs" />
+    <Compile Include="DynamicData\FilterRepeater.cs" />
+    <Compile Include="DynamicData\FilterUserControlBase.cs" />
+    <Compile Include="DynamicData\IControlParameterTarget.cs" />
+    <Compile Include="DynamicData\IFieldFormattingOptions.cs" />
+    <Compile Include="DynamicData\IFieldTemplate.cs" />
+    <Compile Include="DynamicData\IFieldTemplateFactory.cs" />
+    <Compile Include="DynamicData\IFieldTemplateHost.cs" />
+    <Compile Include="DynamicData\IFilterExpressionProvider.cs" />
+    <Compile Include="DynamicData\IMetaChildrenColumn.cs" />
+    <Compile Include="DynamicData\IMetaColumn.cs" />
+    <Compile Include="DynamicData\IMetaForeignKeyColumn.cs" />
+    <Compile Include="DynamicData\IMetaModel.cs" />
+    <Compile Include="DynamicData\IMetaTable.cs" />
+    <Compile Include="DynamicData\IWhereParametersProvider.cs" />
+    <Compile Include="DynamicData\MetaChildrenColumn.cs" />
+    <Compile Include="DynamicData\MetaColumn.cs" />
+    <Compile Include="DynamicData\MetaForeignKeyColumn.cs" />
+    <Compile Include="DynamicData\MetaModel.cs" />
+    <Compile Include="DynamicData\MetaTable.cs" />
+    <Compile Include="DynamicData\ModelProviders\AssociationProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\ColumnProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\DataModelProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\DLinqAssociationProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\DLinqColumnProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\DLinqDataModelProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\DLinqTableProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\EFAssociationProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\EFColumnProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\EFDataModelProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\EFTableProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\SchemaCreator.cs" />
+    <Compile Include="DynamicData\ModelProviders\SimpleColumnProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\SimpleModelProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\SimpleTableProvider.cs" />
+    <Compile Include="DynamicData\ModelProviders\TableProvider.cs" />
+    <Compile Include="DynamicData\PageAction.cs" />
+    <Compile Include="DynamicData\QueryableFilterRepeater.cs" />
+    <Compile Include="DynamicData\QueryableFilterUserControl.cs" />
+    <Compile Include="DynamicData\QueryStringHandler.cs" />
+    <Compile Include="DynamicData\RepeaterDataBoundAdapter.cs" />
+    <Compile Include="DynamicData\SimpleFieldTemplateFactory.cs" />
+    <Compile Include="DynamicData\SimpleFieldTemplateUserControl.cs" />
+    <Compile Include="DynamicData\TableNameAttribute.cs" />
+    <Compile Include="DynamicData\Util\AttributeExtensions.cs" />
+    <Compile Include="DynamicData\Util\DataControlHelper.cs" />
+    <Compile Include="DynamicData\Util\DefaultValueMapping.cs" />
+    <Compile Include="DynamicData\Util\DictionaryCustomTypeDescriptor.cs" />
+    <Compile Include="DynamicData\Util\FileChangeNotifier.cs" />
+    <Compile Include="DynamicData\Util\MappingInfo.cs" />
+    <Compile Include="DynamicData\Util\MetaTableHelper.cs" />
+    <Compile Include="DynamicData\Util\Misc.cs" />
+    <Compile Include="DynamicData\Util\RouteParametersHelper.cs" />
+    <Compile Include="DynamicData\Util\TemplateFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\DynamicDataResources.Designer.cs" />
+    <Compile Include="UI\DataControlExtensions.cs" />
+    <Compile Include="UI\ResourceDescriptionAttribute.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

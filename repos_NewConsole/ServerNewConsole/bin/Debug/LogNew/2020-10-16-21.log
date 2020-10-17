@@ -1,0 +1,37 @@
+#Console Printf about side
+#       Code Memory this...
+#       WriteTime about (s)7
+#
+#Endl
+[21:42:55] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[21:42:55] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[21:42:55] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[21:42:55] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[21:42:55] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[21:42:55] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[21:42:56] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[21:42:58] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[21:42:58] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[21:42:58] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[21:42:58] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] load[
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] load[
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[21:42:59] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[21:43:0] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+[21:43:38] [ServerNewConsole/Warn] [/Thread] 正在运行Close插件方法
+[21:43:38] [ServerNewConsole/Info] [/Thread] close[
+[21:43:38] [ServerNewConsole/Info] [/Thread] ] * close
+[21:43:38] [ServerNewConsole/Warn] [/Thread] Close Object
+

@@ -1,0 +1,36 @@
+#Console Printf about side
+#       Code Memory this...
+#       WriteTime about (s)52
+#
+#Endl
+[2:0:40] [ServerNewConsole/Info] [Client Run/Thread] 加载启动
+[2:0:40] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[2:0:40] [ServerNewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[2:0:40] [ServerNewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[2:0:40] [ServerNewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[2:0:40] [ServerNewConsole/Info] [Client Run/Thread] 成功
+[2:0:41] [ServerNewConsole/Warn] [Client Run/Thread] [Sever] Sever Start
+[2:0:43] [ServerNewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[2:0:43] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[2:0:43] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path runcmd to extr/runcmd
+[2:0:43] [ServerNewConsole/Warn] [Client Run/Thread]  [MakeArg] path server/SPC to extr/server/SPC
+[2:0:44] [ServerNewConsole/Info] [Client Run/Thread] load[
+[2:0:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/cmd is sucess load to return 0 at load
+[2:0:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/runcmd is sucess load to return 0 at load
+[2:0:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package extr/server/SPC is sucess load to return 0 at load
+[2:0:44] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[2:0:44] [ServerNewConsole/Info] [Client Run/Thread] load[
+[2:0:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/Helper is sucess load to return 0 at load
+[2:0:44] [ServerNewConsole/Info] [Client Run/Thread] [System plug-in unit] The package SystemCmdExtr/LoadRun is sucess load to return 0 at load
+[2:0:44] [ServerNewConsole/Info] [Client Run/Thread] ] * load
+[2:0:44] [ServerNewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[2:0:45] [ServerNewConsole/Info] [Client Run/Thread] sever-loading[
+[2:0:45] [ServerNewConsole/Info] [Client Run/Thread] ] * sever-loading
+
+
+
+
+
+

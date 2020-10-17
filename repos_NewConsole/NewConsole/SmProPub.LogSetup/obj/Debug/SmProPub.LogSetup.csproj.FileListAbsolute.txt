@@ -1,0 +1,11 @@
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\bin\Debug\SmProPub.LogSetup.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\bin\Debug\SmProPub.LogSetup.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\bin\Debug\SmProPub.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\bin\Debug\SmProPub.Text.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\bin\Debug\SmProPub.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\bin\Debug\SmProPub.Text.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\obj\Debug\SmProPub.LogSetup.csprojAssemblyReference.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\obj\Debug\SmProPub.LogSetup.csproj.CoreCompileInputs.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\obj\Debug\SmProPub.LogSetup.csproj.CopyComplete
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\obj\Debug\SmProPub.LogSetup.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.LogSetup\obj\Debug\SmProPub.LogSetup.pdb

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition="'$(Configuration)' == ''">Debug</Configuration>
+    <Platform Condition="'$(Platform)' == ''">AnyCPU</Platform>
+    <ProjectGuid>{4b413f68-46fb-4941-bee6-eb879f2db30b}</ProjectGuid>
+    <OutputPath>.</OutputPath>
+    <OutputType>Library</OutputType>
+    <AssemblyName>System.Xaml.Hosting</AssemblyName>
+    <UseVSHostingProcess>False</UseVSHostingProcess>
+    <NoStdLib>True</NoStdLib>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <DefineConstants>CODE_ANALYSIS_BASELINE;NONAPTCA;TRACE;RETAIL;WIN32</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' " >
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\clr\src\bcl\mscorlib.csproj">
+      <Project>{e0da26e9-d35f-445c-94fb-58f039f76c3f}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\fx\src\System.csproj">
+      <Project>{db3703cc-a1d5-42b5-892b-85450ff822e0}</Project>
+      <Name>System</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\fx\src\Configuration\System.Configuration.csproj">
+      <Project>{3425ea8c-2b8d-4107-b81f-70fef7c8a773}</Project>
+      <Name>System.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\fx\src\Core\System.Core.csproj">
+      <Project>{d8c59d7f-e786-42f3-be83-fb8798331c32}</Project>
+      <Name>System.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\fx\src\data\System.Data.csproj">
+      <Project>{870ffe19-f01e-4b2e-96f1-817cf9d7604a}</Project>
+      <Name>System.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\fx\src\System.Drawing.csproj">
+      <Project>{04d8e9c4-93a4-4b67-b9a0-5d7b3a52497c}</Project>
+      <Name>System.Drawing</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\clr\src\managedlibraries\security\System.Security.csproj">
+      <Project>{1f945f7e-84fe-4c8f-a50f-8cb742eb7316}</Project>
+      <Name>System.Security</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\System.ServiceModel.Internals\System.ServiceModel.Internals.csproj">
+      <Project>{0cb09b20-fe14-4bcb-b7bb-07873142badf}</Project>
+      <Name>System.ServiceModel.Internals</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\fx\src\xsp\system\Web\System.Web.csproj">
+      <Project>{dc49391d-17b4-49be-95e5-c3c78d52c872}</Project>
+      <Name>System.Web</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\NetFx20\System.Web.Services\System.Web.Services.csproj">
+      <Project>{8cd8d9f9-4df2-449d-8280-8f1b307ee840}</Project>
+      <Name>System.Web.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\fx\src\Xml\System.Xml.csproj">
+      <Project>{afd452b2-ab89-40e4-ae83-adb409dfd32a}</Project>
+      <Name>System.Xml</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Xaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="System\Xaml\Hosting\Configuration\HandlerElement.cs" />
+    <Compile Include="System\Xaml\Hosting\Configuration\HandlerElementCollection.cs" />
+    <Compile Include="System\Xaml\Hosting\Configuration\XamlHostingConfiguration.cs" />
+    <Compile Include="System\Xaml\Hosting\Configuration\XamlHostingSection.cs" />
+    <Compile Include="System\Xaml\Hosting\Configuration\XamlHostingSectionGroup.cs" />
+    <Compile Include="System\Xaml\Hosting\HostingEnvironmentWrapper.cs" />
+    <Compile Include="System\Xaml\Hosting\IXamlBuildProviderExtension.cs" />
+    <Compile Include="System\Xaml\Hosting\IXamlBuildProviderExtensionFactory.cs" />
+    <Compile Include="System\Xaml\Hosting\XamlBuildProvider.cs" />
+    <Compile Include="System\Xaml\Hosting\XamlHttpHandlerFactory.cs" />
+    <Compile Include="TD.Designer.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

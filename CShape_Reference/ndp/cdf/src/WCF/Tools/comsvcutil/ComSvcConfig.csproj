@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition="'$(Configuration)' == ''">Debug</Configuration>
+    <Platform Condition="'$(Platform)' == ''">AnyCPU</Platform>
+    <ProjectGuid>{c43d9b20-8ec5-4e17-8944-6a018add4b09}</ProjectGuid>
+    <OutputPath>.</OutputPath>
+    <OutputType>Library</OutputType>
+    <AssemblyName>ComSvcConfig</AssemblyName>
+    <UseVSHostingProcess>False</UseVSHostingProcess>
+    <NoStdLib>True</NoStdLib>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <DefineConstants>CODE_ANALYSIS_BASELINE;COMSVC_TOOL;SERVICEMODEL_DEPENDENT;SERVICEMODEL_DEPENDENT;TRACE;RETAIL;WIN32</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' " >
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\clr\src\bcl\mscorlib.csproj">
+      <Project>{e0da26e9-d35f-445c-94fb-58f039f76c3f}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\fx\src\System.csproj">
+      <Project>{db3703cc-a1d5-42b5-892b-85450ff822e0}</Project>
+      <Name>System</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\fx\src\Configuration\System.Configuration.csproj">
+      <Project>{3425ea8c-2b8d-4107-b81f-70fef7c8a773}</Project>
+      <Name>System.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Serialization\System.Runtime.Serialization.csproj">
+      <Project>{a91cf4fb-4ccb-48f3-b863-7545161ceb67}</Project>
+      <Name>System.Runtime.Serialization</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\ServiceModel\System.ServiceModel.csproj">
+      <Project>{b55da55c-1e63-40ae-9d40-af9c5e80479c}</Project>
+      <Name>System.ServiceModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\System.ServiceModel.Activation\System.ServiceModel.Activation.csproj">
+      <Project>{8e3f6253-ece5-4c11-93f6-5d01c656d615}</Project>
+      <Name>System.ServiceModel.Activation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\NetFx20\System.Transactions\System.Transactions.csproj">
+      <Project>{28172bbd-38cf-41a7-95b8-2fb6130d3733}</Project>
+      <Name>System.Transactions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\fx\src\xsp\system\Web\System.Web.csproj">
+      <Project>{dc49391d-17b4-49be-95e5-c3c78d52c872}</Project>
+      <Name>System.Web</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\fx\src\Xml\System.Xml.csproj">
+      <Project>{afd452b2-ab89-40e4-ae83-adb409dfd32a}</Project>
+      <Name>System.Xml</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\svcutil\CommandLineParser.cs" />
+    <Compile Include="..\WcfCommonResStrings\CommonResStrings.cs" />
+    <Compile Include="AtomicFile.cs" />
+    <Compile Include="ComAdminInterfaces.cs" />
+    <Compile Include="ComAdminWrapper.cs" />
+    <Compile Include="ComplusEndpointConfigContainer.cs" />
+    <Compile Include="ComplusTypeValidator.cs" />
+    <Compile Include="EndpointConfigContainer.cs" />
+    <Compile Include="Options.cs" />
+    <Compile Include="SafeNativeMethods.cs" />
+    <Compile Include="SvcFileManager.cs" />
+    <Compile Include="Tool.cs" />
+    <Compile Include="ToolConsole.cs" />
+    <Compile Include="WasAdminWrapper.cs" />
+    <Compile Include="WasEndpointConfigContainer.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

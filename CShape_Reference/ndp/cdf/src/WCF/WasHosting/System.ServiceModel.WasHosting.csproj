@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition="'$(Configuration)' == ''">Debug</Configuration>
+    <Platform Condition="'$(Platform)' == ''">AnyCPU</Platform>
+    <ProjectGuid>{6e6b90d3-df4b-452d-95d6-3d27b13575dc}</ProjectGuid>
+    <OutputPath>.</OutputPath>
+    <OutputType>Library</OutputType>
+    <AssemblyName>System.ServiceModel.WasHosting</AssemblyName>
+    <UseVSHostingProcess>False</UseVSHostingProcess>
+    <NoStdLib>True</NoStdLib>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AddAdditionalExplicitAssemblyReferences>false</AddAdditionalExplicitAssemblyReferences>
+    <DefineConstants>CODE_ANALYSIS_BASELINE;TRACE;RETAIL;WIN32</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' " >
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\clr\src\bcl\mscorlib.csproj">
+      <Project>{e0da26e9-d35f-445c-94fb-58f039f76c3f}</Project>
+      <Name>mscorlib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SMDiagnostics\SMDiagnostics.csproj">
+      <Project>{9c2adb09-be9a-4a36-9ef9-777b47c04ec0}</Project>
+      <Name>SMDiagnostics</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\fx\src\System.csproj">
+      <Project>{db3703cc-a1d5-42b5-892b-85450ff822e0}</Project>
+      <Name>System</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IdentityModel\System.IdentityModel.csproj">
+      <Project>{87a9cc23-8d53-4216-9358-001df5d69107}</Project>
+      <Name>System.IdentityModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServiceModel\System.ServiceModel.csproj">
+      <Project>{b55da55c-1e63-40ae-9d40-af9c5e80479c}</Project>
+      <Name>System.ServiceModel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\System.ServiceModel.Activation\System.ServiceModel.Activation.csproj">
+      <Project>{8e3f6253-ece5-4c11-93f6-5d01c656d615}</Project>
+      <Name>System.ServiceModel.Activation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\System.ServiceModel.Internals\System.ServiceModel.Internals.csproj">
+      <Project>{0cb09b20-fe14-4bcb-b7bb-07873142badf}</Project>
+      <Name>System.ServiceModel.Internals</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\fx\src\xsp\system\Web\System.Web.csproj">
+      <Project>{dc49391d-17b4-49be-95e5-c3c78d52c872}</Project>
+      <Name>System.Web</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\fx\src\Xml\System.Xml.csproj">
+      <Project>{afd452b2-ab89-40e4-ae83-adb409dfd32a}</Project>
+      <Name>System.Xml</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Web.Administration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="System\ServiceModel\WasHosting\BaseAppDomainProtocolHandler.cs" />
+    <Compile Include="System\ServiceModel\WasHosting\BaseProcessProtocolHandler.cs" />
+    <Compile Include="System\ServiceModel\WasHosting\MetabaseSettingsIis7.cs" />
+    <Compile Include="System\ServiceModel\WasHosting\MsmqAppDomainProtocolHandler.cs" />
+    <Compile Include="System\ServiceModel\WasHosting\MsmqIntegrationAppDomainProtocolHandler.cs" />
+    <Compile Include="System\ServiceModel\WasHosting\MsmqIntegrationProcessProtocolHandler.cs" />
+    <Compile Include="System\ServiceModel\WasHosting\MsmqProcessProtocolHandler.cs" />
+    <Compile Include="System\ServiceModel\WasHosting\NamedPipeAppDomainProtocolHandler.cs" />
+    <Compile Include="System\ServiceModel\WasHosting\NamedPipeProcessProtocolHandler.cs" />
+    <Compile Include="System\ServiceModel\WasHosting\TcpAppDomainProtocolHandler.cs" />
+    <Compile Include="System\ServiceModel\WasHosting\TcpProcessProtocolHandler.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

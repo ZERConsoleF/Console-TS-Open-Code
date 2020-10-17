@@ -1,0 +1,9 @@
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Text\bin\Debug\SmProPub.Text.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Text\bin\Debug\SmProPub.Text.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Text\obj\Debug\SmProPub.Text.csprojAssemblyReference.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Text\obj\Debug\SmProPub.Text.csproj.CoreCompileInputs.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Text\obj\Debug\SmProPub.Text.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Text\obj\Debug\SmProPub.Text.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Text\bin\Debug\SmProPub.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Text\bin\Debug\SmProPub.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Text\obj\Debug\SmProPub.Text.csproj.CopyComplete

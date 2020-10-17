@@ -1,0 +1,15 @@
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\obj\Debug\SmProPub.Endorce.csprojAssemblyReference.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\obj\Debug\SmProPub.Endorce.csproj.CoreCompileInputs.cache
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\bin\Debug\SmProPub.Endorce.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\bin\Debug\SmProPub.Endorce.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\bin\Debug\SmProPub.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\bin\Debug\SmProPub.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\obj\Debug\SmProPub.Endorce.csproj.CopyComplete
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\obj\Debug\SmProPub.Endorce.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\obj\Debug\SmProPub.Endorce.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\bin\Debug\SmProPub.System.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\bin\Debug\SmProPub.IO.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\bin\Debug\Newtonsoft.Json.dll
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\bin\Debug\SmProPub.System.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\bin\Debug\SmProPub.IO.pdb
+C:\Users\28759\source\repos_NewConsole\NewConsole\SmProPub.Endorce\bin\Debug\Newtonsoft.Json.xml
