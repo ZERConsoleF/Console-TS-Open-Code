@@ -29,7 +29,7 @@ namespace SmPro.System
         {
             this.w = w;
             IDX = SaveInMemory(this);
-            AsiPosInt = 150;
+            AsiPosInt = 20;
             Name = "Name." + nameof(FormPanelControl) + "." + IDX;
             Text = "Text." + nameof(FormPanelControl) + "." + IDX;
         }
@@ -175,7 +175,7 @@ namespace SmPro.System
         /// <param name="Packwindowdis">窗体容器是否释放</param>
         public void InRemove(FormPanelItems it, Control c,bool disclose,bool Packwindowdis)
         {
-            it.InListVebel.RemoveControl(c, false);
+            it.InListVebel.RemoveControl(c, disclose);
             ctp.Add(c);
             if (!disclose)
             {
@@ -237,6 +237,7 @@ namespace SmPro.System
                     ghl.Remove(it);
                 }
             }
+            /*
             if (disclose)
             {
                 Thread t = new Thread(() =>
@@ -254,6 +255,7 @@ namespace SmPro.System
                 t.IsBackground = true;
                 t.Start();
             }
+            */
         }
 
         /// <summary>
@@ -287,6 +289,7 @@ namespace SmPro.System
                 t.Name = Name + ncktup.Count + ".listvercsf";
                 t.Text = "Windows Panel " + ncktup.Count;
                 t.FormMoving += T_FormMoving;
+                
                 t.AsiPosInt = this.AsiPosInt;
                 //Console.WriteLine(AsiPosInt);
                 //SetOwenerWindowToSystem sr = new SetOwenerWindowToSystem(w);
@@ -304,6 +307,14 @@ namespace SmPro.System
             if (i.InListVebel == null)
             {
                 p = new TitlePanel();
+                p.OffButtonDisControl = true;
+                p.RemoveOrCloseEvent += (sender, o) => {
+                    if (p.GetList().Length - 1 <= 0)
+                    {
+                        i.InListVebel.Dispose();
+                        i.InNCKOLCTETU.Dispose();
+                    }
+                };
                 p.Name = Name + ncktup.Count + ".NCKOLCTE.panel";
             }
             else

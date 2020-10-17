@@ -71,7 +71,7 @@ namespace SmProPub.Window.Forms.UsersControl
         const int HTBOTTOMRIGHT = 17;     //右下角
         protected override void WndProc(ref Message m)
         {
-            if (LockWindow)
+            if (LockWindow && !CanChangeSizeAtLockWindows)
             {
                 base.WndProc(ref m);
                 return;
@@ -111,6 +111,10 @@ namespace SmProPub.Window.Forms.UsersControl
         /// 是否锁定窗体位置状态
         /// </summary>
         public bool LockWindow { get { return checkBox1.Checked; } set { checkBox1.Checked = value; } }
+        /// <summary>
+        /// 在窗体锁定是否允许调整窗体大小
+        /// </summary>
+        public bool CanChangeSizeAtLockWindows { get; set; }
         /// <summary>
         /// 在窗体关闭时是否只是隐藏不释放
         /// </summary>
@@ -159,7 +163,7 @@ namespace SmProPub.Window.Forms.UsersControl
                 //this指的是主窗口生成的对象
                 int Left = this.Location.X + e.X - pLeft;
                 int Top = this.Location.Y + e.Y - pTop;
-                if (NewMath.AdsoValueAtInt(Top) > AsiPosInt || NewMath.AdsoValueAtInt(Left) > AsiPosInt)
+                if (NewMath.AdsoValueAtInt(e.X - pLeft) > AsiPosInt || NewMath.AdsoValueAtInt(e.Y - pTop) > AsiPosInt)
                     if (FormMoving != null)
                         FormMoving(this, new ObjectEvent());
                 if (LockWindow)

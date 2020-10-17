@@ -83,6 +83,21 @@ namespace SmProPub.Window.Forms.UsersControl
         /// <param name="c">需要添加的控件</param>
         public void AddControl(Control c)
         {
+            foreach (ButtonDC df in d)
+            {
+                if (df.con == c)
+                {
+                    if (ghl != null)
+                    {
+                        if (!ghl.IsDisposed)
+                        {
+                            ghl.con.Hide();
+                        }
+                    }
+                    return;
+                }
+            }
+
             ButtonDC dg = new ButtonDC();
             dg.FlatStyle = FlatStyle.Flat;
             dg.FlatAppearance.BorderSize = 0;
@@ -120,6 +135,11 @@ namespace SmProPub.Window.Forms.UsersControl
             dg.con = c;
             c.TextChanged += (sneder, e) => { dg.Text = c.Text + addenpty; };
             dg.Click += (sender, e) => {
+                if (ghl != null)
+                {
+                    if (!ghl.IsDisposed)
+                        ghl.con.Hide();
+                }
                 c.Show();
                 if (ghl != null)
                 {
@@ -174,6 +194,11 @@ namespace SmProPub.Window.Forms.UsersControl
             if (discontrol)
                 dfgo.con.Dispose();
             dfgo.Dispose();
+
+            if (d.Count > 0)
+            {
+                d[d.Count - 1].con.Show();
+            }
         }
         /// <summary>
         /// 控件标题向左移动

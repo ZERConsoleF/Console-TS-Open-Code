@@ -403,6 +403,7 @@ namespace SmProPub.Window.Forms.UsersControl
             //Thread.CurrentThread.SetApartmentState(ApartmentState.STA);
             bool hasppe = ShowText.ReadOnly;
             ShowText.ReadOnly = true;
+            markend = true;
 
             string showtxt = "* [Marking...] *";
 

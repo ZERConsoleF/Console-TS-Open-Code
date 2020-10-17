@@ -60,5 +60,7 @@ namespace OpenCatLc
         public bool StartThis { get; set; }
         public Point Point { get; set; }
         public Size Size { get; set; }
+        public bool Lock { get; set; }
+        public bool CanChangeAfterLock { get; set; }
     }
 }

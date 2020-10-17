@@ -1,0 +1,574 @@
+#Console Printf about side
+#       Code Memory this...
+#       WriteTime about (s)37
+#
+#Endl
+[12:16:25] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:16:26] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:16:26] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:16:26] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:16:26] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:16:26] [NewConsole/Info] [Client Run/Thread] 成功
+[12:16:29] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:16:29] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:16:29] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:16:29] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:16:29] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:16:29] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:16:29] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:16:30] [NewConsole/Info] [Client Run/Thread] load[
+[12:16:30] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:16:30] [NewConsole/Info] [Client Run/Thread] load[
+[12:16:30] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:16:30] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:16:30] [NewConsole/Info] [Client Run/Thread] loading[
+[12:16:31] [NewConsole/Info] [Client Run/Thread] ] * loading
+[12:16:52] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:16:52] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:16:52] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:16:52] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:16:52] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:16:52] [NewConsole/Info] [Client Run/Thread] 成功
+[12:16:55] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:16:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:16:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:16:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:16:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:16:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:16:56] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:16:57] [NewConsole/Info] [Client Run/Thread] load[
+[12:16:57] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:16:57] [NewConsole/Info] [Client Run/Thread] load[
+[12:16:57] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:16:57] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:16:57] [NewConsole/Info] [Client Run/Thread] loading[
+[12:16:57] [NewConsole/Info] [Client Run/Thread] ] * loading
+[12:17:2] [NewConsole/Info] [Main Window System/Thread] close[
+[12:17:2] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[12:18:43] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:18:43] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:18:43] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:18:43] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:18:43] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:18:43] [NewConsole/Info] [Client Run/Thread] 成功
+[12:18:46] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:18:46] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:18:46] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:18:46] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:18:46] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:18:46] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:18:46] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:18:47] [NewConsole/Info] [Client Run/Thread] load[
+[12:18:47] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:18:47] [NewConsole/Info] [Client Run/Thread] load[
+[12:18:47] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:18:47] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:18:48] [NewConsole/Info] [Client Run/Thread] loading[
+[12:18:48] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[12:20:4] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:20:4] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:20:4] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:20:4] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:20:4] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:20:4] [NewConsole/Info] [Client Run/Thread] 成功
+[12:20:7] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:20:7] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:20:8] [NewConsole/Info] [Client Run/Thread] load[
+[12:20:8] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:20:8] [NewConsole/Info] [Client Run/Thread] load[
+[12:20:8] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:20:9] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:20:9] [NewConsole/Info] [Client Run/Thread] loading[
+[12:20:9] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[12:20:18] [NewConsole/Info] [Main Window System/Thread] close[
+[12:20:18] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[12:21:25] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:21:25] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:21:25] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:21:25] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:21:25] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:21:25] [NewConsole/Info] [Client Run/Thread] 成功
+[12:21:28] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:21:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:21:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:21:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:21:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:21:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:21:28] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:21:29] [NewConsole/Info] [Client Run/Thread] load[
+[12:21:29] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:21:29] [NewConsole/Info] [Client Run/Thread] load[
+[12:21:30] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:21:30] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:21:30] [NewConsole/Info] [Client Run/Thread] loading[
+[12:21:30] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[12:23:2] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:23:2] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:23:2] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:23:2] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:23:2] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:23:2] [NewConsole/Info] [Client Run/Thread] 成功
+[12:23:5] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:23:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:23:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:23:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:23:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:23:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:23:5] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:23:6] [NewConsole/Info] [Client Run/Thread] load[
+[12:23:6] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:23:6] [NewConsole/Info] [Client Run/Thread] load[
+[12:23:6] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:23:6] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:23:7] [NewConsole/Info] [Client Run/Thread] loading[
+[12:23:7] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+
+
+[12:24:29] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:24:30] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:24:30] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:24:30] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:24:30] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:24:30] [NewConsole/Info] [Client Run/Thread] 成功
+[12:24:33] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:24:33] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:24:33] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:24:33] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:24:33] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:24:33] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:24:33] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:24:34] [NewConsole/Info] [Client Run/Thread] load[
+[12:24:34] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:24:34] [NewConsole/Info] [Client Run/Thread] load[
+[12:24:34] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:24:34] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:24:35] [NewConsole/Info] [Client Run/Thread] loading[
+[12:24:35] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[12:25:12] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:25:12] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:25:12] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:25:12] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:25:12] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:25:13] [NewConsole/Info] [Client Run/Thread] 成功
+[12:25:16] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:25:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:25:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:25:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:25:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:25:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:25:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:25:17] [NewConsole/Info] [Client Run/Thread] load[
+[12:25:17] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:25:17] [NewConsole/Info] [Client Run/Thread] load[
+[12:25:17] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:25:17] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:25:17] [NewConsole/Info] [Client Run/Thread] loading[
+[12:25:17] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+
+[12:31:23] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:31:23] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:31:23] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:31:23] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:31:23] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:31:23] [NewConsole/Info] [Client Run/Thread] 成功
+[12:31:26] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:31:26] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:31:26] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:31:26] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:31:26] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:31:26] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:31:26] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:31:27] [NewConsole/Info] [Client Run/Thread] load[
+[12:31:27] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:31:27] [NewConsole/Info] [Client Run/Thread] load[
+[12:31:27] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:31:27] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:31:28] [NewConsole/Info] [Client Run/Thread] loading[
+[12:31:28] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+[12:33:0] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:33:0] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:33:1] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:33:1] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:33:1] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:33:1] [NewConsole/Info] [Client Run/Thread] 成功
+[12:33:4] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:33:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:33:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:33:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:33:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:33:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:33:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:33:5] [NewConsole/Info] [Client Run/Thread] load[
+[12:33:5] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:33:5] [NewConsole/Info] [Client Run/Thread] load[
+[12:33:5] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:33:5] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:33:6] [NewConsole/Info] [Client Run/Thread] loading[
+[12:33:6] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+[12:33:34] [NewConsole/Info] [Main Window System/Thread] close[
+[12:33:34] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[12:34:8] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:34:8] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:34:8] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:34:8] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:34:8] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:34:8] [NewConsole/Info] [Client Run/Thread] 成功
+[12:34:11] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:34:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:34:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:34:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:34:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:34:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:34:11] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:34:12] [NewConsole/Info] [Client Run/Thread] load[
+[12:34:12] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:34:12] [NewConsole/Info] [Client Run/Thread] load[
+[12:34:12] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:34:12] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:34:13] [NewConsole/Info] [Client Run/Thread] loading[
+[12:34:13] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[12:37:0] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:37:1] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:37:1] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:37:1] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:37:1] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:37:1] [NewConsole/Info] [Client Run/Thread] 成功
+[12:37:4] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:37:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:37:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:37:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:37:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:37:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:37:4] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:37:5] [NewConsole/Info] [Client Run/Thread] load[
+[12:37:5] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:37:5] [NewConsole/Info] [Client Run/Thread] load[
+[12:37:5] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:37:5] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:37:6] [NewConsole/Info] [Client Run/Thread] loading[
+[12:37:6] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[12:37:51] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:37:51] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:37:51] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:37:51] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:37:51] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:37:52] [NewConsole/Info] [Client Run/Thread] 成功
+[12:37:55] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:37:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:37:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:37:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:37:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:37:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:37:55] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:37:56] [NewConsole/Info] [Client Run/Thread] load[
+[12:37:56] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:37:56] [NewConsole/Info] [Client Run/Thread] load[
+[12:37:56] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:37:56] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:37:56] [NewConsole/Info] [Client Run/Thread] loading[
+[12:37:57] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[12:38:34] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:38:34] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:38:34] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:38:34] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:38:34] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:38:34] [NewConsole/Info] [Client Run/Thread] 成功
+[12:38:37] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:38:37] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:38:37] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:38:37] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:38:37] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:38:37] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:38:37] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:38:38] [NewConsole/Info] [Client Run/Thread] load[
+[12:38:39] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:38:39] [NewConsole/Info] [Client Run/Thread] load[
+[12:38:39] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:38:39] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:38:39] [NewConsole/Info] [Client Run/Thread] loading[
+[12:38:39] [NewConsole/Info] [Client Run/Thread] ] * loading
+[12:38:45] [NewConsole/Info] [Main Window System/Thread] close[
+[12:38:45] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[12:40:48] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:40:48] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:40:48] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:40:48] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:40:48] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:40:48] [NewConsole/Info] [Client Run/Thread] 成功
+[12:40:51] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:40:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:40:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:40:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:40:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:40:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:40:51] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:40:52] [NewConsole/Info] [Client Run/Thread] load[
+[12:40:53] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:40:53] [NewConsole/Info] [Client Run/Thread] load[
+[12:40:53] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:40:53] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:40:53] [NewConsole/Info] [Client Run/Thread] loading[
+[12:40:53] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+[12:41:14] [NewConsole/Info] [Main Window System/Thread] close[
+[12:41:14] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[12:42:42] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:42:42] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:42:42] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:42:42] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:42:42] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:42:42] [NewConsole/Info] [Client Run/Thread] 成功
+[12:42:45] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:42:45] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:42:45] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:42:45] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:42:45] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:42:45] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:42:45] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:42:46] [NewConsole/Info] [Client Run/Thread] load[
+[12:42:46] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:42:46] [NewConsole/Info] [Client Run/Thread] load[
+[12:42:46] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:42:46] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:42:47] [NewConsole/Info] [Client Run/Thread] loading[
+[12:42:47] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+
+
+
+[12:44:58] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:44:58] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:44:58] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:44:58] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:44:58] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:44:58] [NewConsole/Info] [Client Run/Thread] 成功
+[12:45:1] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:45:1] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:45:1] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:45:1] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:45:1] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:45:1] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:45:1] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:45:2] [NewConsole/Info] [Client Run/Thread] load[
+[12:45:2] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:45:2] [NewConsole/Info] [Client Run/Thread] load[
+[12:45:2] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:45:2] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:45:3] [NewConsole/Info] [Client Run/Thread] loading[
+[12:45:3] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[12:45:55] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:45:55] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:45:55] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:45:55] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:45:55] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:45:55] [NewConsole/Info] [Client Run/Thread] 成功
+[12:45:58] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:45:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:45:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:45:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:45:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:45:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:45:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:45:59] [NewConsole/Info] [Client Run/Thread] load[
+[12:45:59] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:45:59] [NewConsole/Info] [Client Run/Thread] load[
+[12:45:59] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:45:59] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:46:0] [NewConsole/Info] [Client Run/Thread] loading[
+[12:46:0] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+[12:48:5] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:48:5] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:48:5] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:48:5] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:48:5] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:48:5] [NewConsole/Info] [Client Run/Thread] 成功
+[12:48:8] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:48:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:48:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:48:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:48:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:48:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:48:8] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:48:9] [NewConsole/Info] [Client Run/Thread] load[
+[12:48:9] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:48:9] [NewConsole/Info] [Client Run/Thread] load[
+[12:48:9] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:48:9] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:48:10] [NewConsole/Info] [Client Run/Thread] loading[
+[12:48:10] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[12:48:28] [NewConsole/Info] [/Thread] close[
+[12:48:28] [NewConsole/Info] [/Thread] ] * close
+
+[12:49:12] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:49:13] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:49:13] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:49:13] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:49:13] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:49:13] [NewConsole/Info] [Client Run/Thread] 成功
+[12:49:16] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:49:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:49:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:49:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:49:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:49:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:49:16] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:49:17] [NewConsole/Info] [Client Run/Thread] load[
+[12:49:17] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:49:17] [NewConsole/Info] [Client Run/Thread] load[
+[12:49:17] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:49:17] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:49:18] [NewConsole/Info] [Client Run/Thread] loading[
+[12:49:18] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+
+
+
+
+
+
+
+[12:51:46] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:51:46] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:51:46] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:51:46] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:51:46] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:51:46] [NewConsole/Info] [Client Run/Thread] 成功
+[12:51:49] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:51:49] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:51:49] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:51:49] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:51:49] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:51:49] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:51:49] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:51:50] [NewConsole/Info] [Client Run/Thread] load[
+[12:51:50] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:51:50] [NewConsole/Info] [Client Run/Thread] load[
+[12:51:50] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:51:50] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:51:51] [NewConsole/Info] [Client Run/Thread] loading[
+[12:51:51] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+
+[12:52:17] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:52:17] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:52:17] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:52:17] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:52:17] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:52:17] [NewConsole/Info] [Client Run/Thread] 成功
+[12:52:20] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:52:20] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:52:20] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:52:20] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:52:20] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:52:20] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:52:20] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:52:21] [NewConsole/Info] [Client Run/Thread] load[
+[12:52:22] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:52:22] [NewConsole/Info] [Client Run/Thread] load[
+[12:52:22] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:52:22] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:52:22] [NewConsole/Info] [Client Run/Thread] loading[
+[12:52:22] [NewConsole/Info] [Client Run/Thread] ] * loading
+
+[12:52:36] [NewConsole/Info] [Main Window System/Thread] close[
+[12:52:36] [NewConsole/Info] [Main Window System/Thread] ] * close
+
+[12:54:54] [NewConsole/Info] [Client Run/Thread] 加载启动
+[12:54:55] [NewConsole/Info] [Client Run/Thread] [Memory] 成功创建分配
+[12:54:55] [NewConsole/Warn] [Client Run/Thread] [Menory] About creat memory
+name LoadSmPro
+Bytes(MB) 1024
+[12:54:55] [NewConsole/Info] [Client Run/Thread] [Memory] 正在解析数据...请稍后
+[12:54:55] [NewConsole/Info] [Client Run/Thread] [LC] 标签解析完毕，正在传递给内存中...
+[12:54:55] [NewConsole/Info] [Client Run/Thread] 成功
+[12:54:58] [NewConsole/Warn] [Client Run/Thread] 使用这个语言在加载时或完毕时 zh-cn
+[12:54:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path mo to extr/mo
+[12:54:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path sr to extr/sr
+[12:54:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cmd to extr/cmd
+[12:54:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:54:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path client/HPC to extr/client/HPC
+[12:54:58] [NewConsole/Warn] [Client Run/Thread]  [MakeArg] path cw to extr/cw
+[12:54:59] [NewConsole/Info] [Client Run/Thread] load[
+[12:54:59] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:54:59] [NewConsole/Info] [Client Run/Thread] load[
+[12:54:59] [NewConsole/Info] [Client Run/Thread] ] * load
+[12:54:59] [NewConsole/Info] [Client Run/Thread] 启动窗体，加载程序
+[12:54:59] [NewConsole/Info] [Client Run/Thread] loading[
+[12:55:0] [NewConsole/Info] [Client Run/Thread] ] * loading
+

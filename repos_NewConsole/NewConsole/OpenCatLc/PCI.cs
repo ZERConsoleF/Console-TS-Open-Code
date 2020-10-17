@@ -57,6 +57,7 @@ namespace Main
                     FormPanelControl fp = new FormPanelControl(r.mi);
                     fp.Name = "Windows Control";
                     fp.Text = "SeeMods";
+                    fp.AsiPosInt = 20;
                     fp.Open();
 
                     SettingPackage.InitPackage(SettingPackage.PK_SmPro_Name, false);
@@ -75,7 +76,7 @@ namespace Main
                         NCKOLCTETU t = mk.CheckForm as NCKOLCTETU;
                         t.TabIndex = mk.CheckForms.Count;
                         t.Text = FanYi.fromepk("RC", "form.loadwindow.Creative.MainConsole", r.lauge);
-                        t.Name = "nckti." + mk.CheckForms.Count;
+                        t.Name = "nckti.";
                         mk.CheckForm = new NCKOLCTETU();
 
                         ConsoleShowWindow p = new ConsoleShowWindow();
@@ -88,6 +89,7 @@ namespace Main
 
                         mk.CheckForms.Add(t);
                         r.mi.AddControlInvoke(t);
+                        t.Name += mk.CheckForms.Count;
                         t.Show();
                         SetETCWindowToSystem ty = new SetETCWindowToSystem(r.mi);
                         ty.SetLocationUp(t);
@@ -112,7 +114,7 @@ namespace Main
                             }
                         p.ShowText.SelectionColor = Color.Green;
                         p.ConsoleWrite("\r\n[C#] : ");
-                        fp.Add(t);
+                        //fp.Add(t);
                     });
 
                     FormMenu mb = new FormMenu();
@@ -122,7 +124,7 @@ namespace Main
                         NCKOLCTETU t = mb.CheckForm as NCKOLCTETU;
                         t.TabIndex = mb.CheckForms.Count;
                         t.Text = FanYi.fromepk("RC", "form.loadwindow.Creative.ControlMain", r.lauge);
-                        t.Name = "ncktpai." + mb.CheckForms.Count;
+                        t.Name = "ncktpai.";
                         mb.CheckForm = new NCKOLCTETU();
 
                         ConsoleShowWindow p = new ConsoleShowWindow();
@@ -132,6 +134,7 @@ namespace Main
 
                         mb.CheckForms.Add(t);
                         r.mi.AddControlInvoke(t);
+                        t.Name += mb.CheckForms.Count;
                         t.Show();
 
                         p.Dock = DockStyle.Fill;
@@ -294,14 +297,16 @@ namespace Main
                                         fp.Add(e.Control);
                                         //e.Control.Disposed += (senderpp, eq) => { fp.InRemove(ipg, e.Control, false, true); };
                                         void vvr() { fp.InAdd(e.Control, ipg); };
-                                        if (e.Control.InvokeRequired)
-                                            e.Control.BeginInvoke(new MethodInvoker(delegate { vvr(); }));
-                                        else
+                                        //if (e.Control.InvokeRequired)
+                                            //e.Control.BeginInvoke(new MethodInvoker(delegate { vvr(); }));
+                                        //else
                                             vvr();
                                         ipg.InNCKOLCTETU.Dock = s.DockStyle;
                                         ipg.InNCKOLCTETU.Title.Height = s.TitleSet;
                                         ipg.InNCKOLCTETU.BackColor = s.BackGround;
                                         ipg.InListVebel.TitlePanelDock = s.UnderDockStyle;
+                                        ipg.InNCKOLCTETU.LockWindow = s.Lock;
+                                        ipg.InNCKOLCTETU.CanChangeSizeAtLockWindows = s.CanChangeAfterLock;
                                     }
                                     else
                                     {
@@ -312,19 +317,21 @@ namespace Main
                                         //ipg.AddInNCKOLCTETU.Add(t);
                                         //e.Control.Disposed += (senderpp, eq) => { fp.InRemove(ipg, e.Control, false, true); };
                                         void vvr() { fp.Add(ipg); fp.Add(e.Control); fp.InAdd(e.Control, ipg); };
-                                        if (e.Control.InvokeRequired)
-                                            e.Control.BeginInvoke(new MethodInvoker(delegate { vvr(); }));
-                                        else
+                                        //if (e.Control.InvokeRequired)
+                                            //e.Control.BeginInvoke(new MethodInvoker(delegate { vvr(); }));
+                                        //else
                                             vvr();
                                         ipg.InNCKOLCTETU.Dock = s.DockStyle;
                                         ipg.InNCKOLCTETU.Title.Height = s.TitleSet;
                                         ipg.InNCKOLCTETU.BackColor = s.BackGround;
                                         ipg.InListVebel.TitlePanelDock = s.UnderDockStyle;
+                                        ipg.InNCKOLCTETU.LockWindow = s.Lock;
+                                        ipg.InNCKOLCTETU.CanChangeSizeAtLockWindows = s.CanChangeAfterLock;
                                     }
                                     //e.Control.Disposed += (senderpp, eq) => { fp.InRemove(ipg, e.Control, false, true); };
                                     //e.Control.TextChanged += (senderpp, eq) => { ipg.InListVebel.GetTaskBar().ResetButtonLocation(); };
+                                    break;
                                 }
-                                break;
                             }
                         }
                     };
