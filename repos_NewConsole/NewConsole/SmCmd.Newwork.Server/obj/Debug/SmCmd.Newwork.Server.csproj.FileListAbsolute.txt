@@ -1,9 +1,0 @@
-C:\Users\28759\source\repos_NewConsole\NewConsole\NewConsole\bin\Debug\extr\server\SPC\Main.dll
-C:\Users\28759\source\repos_NewConsole\NewConsole\NewConsole\bin\Debug\extr\server\SPC\Main.pdb
-C:\Users\28759\source\repos_NewConsole\NewConsole\SmCmd.Newwork.Server\obj\Debug\SmCmd.Newwork.Server.csprojAssemblyReference.cache
-C:\Users\28759\source\repos_NewConsole\NewConsole\SmCmd.Newwork.Server\obj\Debug\SmCmd.Newwork.Server.csproj.CoreCompileInputs.cache
-C:\Users\28759\source\repos_NewConsole\NewConsole\SmCmd.Newwork.Server\obj\Debug\Main.dll
-C:\Users\28759\source\repos_NewConsole\NewConsole\SmCmd.Newwork.Server\obj\Debug\Main.pdb
-C:\Users\28759\source\repos_NewConsole\NewConsole\SmCmd.Newwork.Server\obj\Debug\SmCmd.Newwork.Server.csproj.CopyComplete
-C:\Users\28759\source\repos_NewConsole\ServerNewConsole\bin\Debug\extr\server\SPC\Main.dll
-C:\Users\28759\source\repos_NewConsole\ServerNewConsole\bin\Debug\extr\server\SPC\Main.pdb

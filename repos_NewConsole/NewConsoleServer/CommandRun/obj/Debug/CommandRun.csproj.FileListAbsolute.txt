@@ -1,7 +1,0 @@
-C:\Users\28759\source\repos_NewConsole\ServerNewConsole\bin\Debug\extr\runcmd\Main.dll
-C:\Users\28759\source\repos_NewConsole\ServerNewConsole\bin\Debug\extr\runcmd\Main.pdb
-C:\Users\28759\source\repos_NewConsole\NewConsoleServer\CommandRun\obj\Debug\CommandRun.csprojAssemblyReference.cache
-C:\Users\28759\source\repos_NewConsole\NewConsoleServer\CommandRun\obj\Debug\CommandRun.csproj.CoreCompileInputs.cache
-C:\Users\28759\source\repos_NewConsole\NewConsoleServer\CommandRun\obj\Debug\CommandRun.csproj.CopyComplete
-C:\Users\28759\source\repos_NewConsole\NewConsoleServer\CommandRun\obj\Debug\Main.dll
-C:\Users\28759\source\repos_NewConsole\NewConsoleServer\CommandRun\obj\Debug\Main.pdb

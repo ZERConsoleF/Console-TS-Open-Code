@@ -1,7 +1,0 @@
-C:\Users\28759\source\repos_NewConsole\NewConsole\StartServerInSmPro\bin\Debug\StartServerInSmPro.exe.config
-C:\Users\28759\source\repos_NewConsole\NewConsole\StartServerInSmPro\bin\Debug\StartServerInSmPro.exe
-C:\Users\28759\source\repos_NewConsole\NewConsole\StartServerInSmPro\bin\Debug\StartServerInSmPro.pdb
-C:\Users\28759\source\repos_NewConsole\NewConsole\StartServerInSmPro\obj\Debug\StartServerInSmPro.csproj.CoreCompileInputs.cache
-C:\Users\28759\source\repos_NewConsole\NewConsole\StartServerInSmPro\obj\Debug\StartServerInSmPro.exe
-C:\Users\28759\source\repos_NewConsole\NewConsole\StartServerInSmPro\obj\Debug\StartServerInSmPro.pdb
-C:\Users\28759\source\repos_NewConsole\NewConsole\StartServerInSmPro\obj\Debug\StartServerInSmPro.csprojAssemblyReference.cache
